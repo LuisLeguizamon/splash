@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cursapp</string>
+    <string name="actionbar_name">cursapp</string>
 </resources>
